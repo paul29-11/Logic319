@@ -1,0 +1,15 @@
+C:\Users\XSIS User\Documents\319\zwan\logic319\Logic319\Logic_quiz_day08\bin\Debug\net6.0\Logic_quiz_day08.exe
+C:\Users\XSIS User\Documents\319\zwan\logic319\Logic319\Logic_quiz_day08\bin\Debug\net6.0\Logic_quiz_day08.deps.json
+C:\Users\XSIS User\Documents\319\zwan\logic319\Logic319\Logic_quiz_day08\bin\Debug\net6.0\Logic_quiz_day08.runtimeconfig.json
+C:\Users\XSIS User\Documents\319\zwan\logic319\Logic319\Logic_quiz_day08\bin\Debug\net6.0\Logic_quiz_day08.dll
+C:\Users\XSIS User\Documents\319\zwan\logic319\Logic319\Logic_quiz_day08\bin\Debug\net6.0\Logic_quiz_day08.pdb
+C:\Users\XSIS User\Documents\319\zwan\logic319\Logic319\Logic_quiz_day08\obj\Debug\net6.0\Logic_quiz_day08.csproj.AssemblyReference.cache
+C:\Users\XSIS User\Documents\319\zwan\logic319\Logic319\Logic_quiz_day08\obj\Debug\net6.0\Logic_quiz_day08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XSIS User\Documents\319\zwan\logic319\Logic319\Logic_quiz_day08\obj\Debug\net6.0\Logic_quiz_day08.AssemblyInfoInputs.cache
+C:\Users\XSIS User\Documents\319\zwan\logic319\Logic319\Logic_quiz_day08\obj\Debug\net6.0\Logic_quiz_day08.AssemblyInfo.cs
+C:\Users\XSIS User\Documents\319\zwan\logic319\Logic319\Logic_quiz_day08\obj\Debug\net6.0\Logic_quiz_day08.csproj.CoreCompileInputs.cache
+C:\Users\XSIS User\Documents\319\zwan\logic319\Logic319\Logic_quiz_day08\obj\Debug\net6.0\Logic_quiz_day08.dll
+C:\Users\XSIS User\Documents\319\zwan\logic319\Logic319\Logic_quiz_day08\obj\Debug\net6.0\refint\Logic_quiz_day08.dll
+C:\Users\XSIS User\Documents\319\zwan\logic319\Logic319\Logic_quiz_day08\obj\Debug\net6.0\Logic_quiz_day08.pdb
+C:\Users\XSIS User\Documents\319\zwan\logic319\Logic319\Logic_quiz_day08\obj\Debug\net6.0\Logic_quiz_day08.genruntimeconfig.cache
+C:\Users\XSIS User\Documents\319\zwan\logic319\Logic319\Logic_quiz_day08\obj\Debug\net6.0\ref\Logic_quiz_day08.dll

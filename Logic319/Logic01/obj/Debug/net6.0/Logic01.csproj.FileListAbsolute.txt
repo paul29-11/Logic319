@@ -1,0 +1,15 @@
+E:\.Net\Project\BATCH_319\LOGIC\logic319\Logic319\Logic01\bin\Debug\net6.0\Logic01.exe
+E:\.Net\Project\BATCH_319\LOGIC\logic319\Logic319\Logic01\bin\Debug\net6.0\Logic01.deps.json
+E:\.Net\Project\BATCH_319\LOGIC\logic319\Logic319\Logic01\bin\Debug\net6.0\Logic01.runtimeconfig.json
+E:\.Net\Project\BATCH_319\LOGIC\logic319\Logic319\Logic01\bin\Debug\net6.0\Logic01.dll
+E:\.Net\Project\BATCH_319\LOGIC\logic319\Logic319\Logic01\bin\Debug\net6.0\Logic01.pdb
+E:\.Net\Project\BATCH_319\LOGIC\logic319\Logic319\Logic01\obj\Debug\net6.0\Logic01.csproj.AssemblyReference.cache
+E:\.Net\Project\BATCH_319\LOGIC\logic319\Logic319\Logic01\obj\Debug\net6.0\Logic01.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net\Project\BATCH_319\LOGIC\logic319\Logic319\Logic01\obj\Debug\net6.0\Logic01.AssemblyInfoInputs.cache
+E:\.Net\Project\BATCH_319\LOGIC\logic319\Logic319\Logic01\obj\Debug\net6.0\Logic01.AssemblyInfo.cs
+E:\.Net\Project\BATCH_319\LOGIC\logic319\Logic319\Logic01\obj\Debug\net6.0\Logic01.csproj.CoreCompileInputs.cache
+E:\.Net\Project\BATCH_319\LOGIC\logic319\Logic319\Logic01\obj\Debug\net6.0\Logic01.dll
+E:\.Net\Project\BATCH_319\LOGIC\logic319\Logic319\Logic01\obj\Debug\net6.0\refint\Logic01.dll
+E:\.Net\Project\BATCH_319\LOGIC\logic319\Logic319\Logic01\obj\Debug\net6.0\Logic01.pdb
+E:\.Net\Project\BATCH_319\LOGIC\logic319\Logic319\Logic01\obj\Debug\net6.0\Logic01.genruntimeconfig.cache
+E:\.Net\Project\BATCH_319\LOGIC\logic319\Logic319\Logic01\obj\Debug\net6.0\ref\Logic01.dll
